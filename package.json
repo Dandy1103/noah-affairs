@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --port 4214",
+    "start": "node scripts/dev.mjs affairs 4313",
     "build": "ng build"
   },
   "dependencies": {
